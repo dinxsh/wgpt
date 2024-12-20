@@ -1,2 +1,2 @@
-# WhatsAppGPT [WIP]
-access GPT through a whatsapp bot
+#### chat with GPT through whatsapp
+> work in progress
